@@ -1,4 +1,4 @@
-# FilamentMonitor
+# FilamentMonitor (Wersja 1 skończona ale nie chce mi się pisać dokumentacji wiec póki co README jest nieaktualne ale kiedyś je uzupełnię, obiecuję :* )
 Jest to autorski projekt urządzenia IoT opartego na mikrokontrolerze ESP32, którego zadaniem jest monitorowanie poziomu wilgotności i temperatury wewnątrz pojemnika do przechowywania filamentu do druku 3D. 
 
 ---
